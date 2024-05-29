@@ -1,1 +1,1 @@
-# migrate user data to keycloak via kafka broker (single node)
+# migrate user data from pgdb to keycloak via kafka broker (single node)
